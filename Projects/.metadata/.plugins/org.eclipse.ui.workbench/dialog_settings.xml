@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="361" key="DIALOG_X_ORIGIN"/>
+		<item value="10" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="org.eclipse.ui.internal.QuickAccess">
+		<item value="-1" key="dialogHeight"/>
+		<item value="-1" key="dialogWidth"/>
+		<list key="textEntries">
+		</list>
+		<list key="orderedElements">
+		</list>
+		<list key="orderedProviders">
+		</list>
+		<list key="textArray">
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ImportExportAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ImportWizard" key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+			<item value="org.eclipse.jst.j2ee.internal"/>
+			<item value="org.eclipse.m2e"/>
+			<item value="org.eclipse.rse.importexport.importWizards"/>
+			<item value="org.eclipse.debug.ui"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID"/>
+		<item value="true" key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/home/taynara/Dropbox/6º Período/3ª - POO II"/>
+		</list>
+	</section>
+</section>
